@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-esto sigue siendo una prueba
-este es un fichero de prueba modificado en la rama probatorio
-
->>>>>>> probatorio
+este es el fichero definitivo en la rama main
